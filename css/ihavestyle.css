@@ -1,0 +1,41 @@
+@font-face {
+	src: url("GemunuLibre-VariableFont_wght.ttf");
+	font-family:gemunu;
+}
+
+p{
+  color: blue;
+}
+h2{
+  color: #64ffda;
+  font-family: "Veranda", "Roboto";
+  font-weight: bold;
+}
+ul {
+	color: F4FFF5;
+	font-style: italic;
+	font-family: 'Roboto', sans-serif;
+}
+h5 {
+	color: #009688;
+}
+h4 {
+	color: #ff5722;
+}
+li {
+	font-family: veranda, roboto;
+}
+body {
+	background-color: #8bc34a;
+}
+footer {
+	color: white;
+}
+p{
+	color: #FF0B0B;
+	font-family:gemunu;
+}
+img {
+	max-width:5%;
+	max-height:5%;
+}
